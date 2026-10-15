@@ -1,0 +1,9 @@
+{
+	"name": "delphiredisclient",
+	"description": "Redis client for Delphi (A0Gateway fork of danieleteti/delphiredisclient v2.2, only boss.json added)",
+	"version": "2.2.0",
+	"homepage": "https://github.com/A0Gateway/delphiredisclient",
+	"mainsrc": "./sources/",
+	"projects": [],
+	"dependencies": {}
+}
